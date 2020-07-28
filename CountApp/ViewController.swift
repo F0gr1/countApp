@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var Button: UIButton!
-    @IBOutlet weak var Button2: UIButton!
+   // @IBOutlet weak var Button2: UIButton!
     var str = "0";
     var num = 0;
     let label = UILabel(frame: CGRect(x:100, y:100, width:200, height:200));
